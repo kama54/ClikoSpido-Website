@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kama54.github.io/ClikoSpido-Website/sitemap.xml
