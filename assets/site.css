@@ -62,3 +62,17 @@ html[dir="rtl"] .mast-copy{text-align:right;align-items:flex-start}html[dir="rtl
   .mini-feature.screenshot-card img.real-screenshot{max-height:365px}
   .feat-photo img.real-screenshot{max-height:405px}
 }
+
+/* Responsive hero refinement: headings never break at awkward points. */
+@media(max-width:700px){
+  .mast h1 .mast-first-line{display:inline-block;max-width:100%;white-space:nowrap;font-size:clamp(31px,8.4vw,60px);letter-spacing:-.06em}
+  .scroll-cue{left:50%;right:auto;bottom:20px;transform:translateX(-50%);max-width:calc(100vw - 40px);white-space:nowrap;font-size:10px;letter-spacing:.1em}
+  .stage-no{display:none}
+}
+.play-store-icon{width:64px;height:64px;flex:0 0 64px;display:grid;place-items:center;border-radius:18px;background:#ffffff13;border:1px solid #ffffff45;box-shadow:0 10px 30px #071b3380}
+.disclosure .play-store-icon img{display:block;width:46px;height:46px;object-fit:contain}
+@media(max-width:420px){
+  .play-store-icon{width:58px;height:58px;flex-basis:58px;border-radius:16px}
+  .disclosure .play-store-icon img{width:42px;height:42px}
+  .disclosure{gap:13px}
+}
