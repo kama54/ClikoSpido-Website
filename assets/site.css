@@ -38,3 +38,27 @@ body{min-width:320px}img{height:auto}.locale-picker{border:1px solid #ffffff65;b
 @media(max-width:700px){.language-nav{margin-left:auto}.locale-picker{max-width:103px}.guide-hero{padding:80px 0 70px}.guide-content{padding:48px 0 75px}.guide-body{font-size:17px;line-height:1.75}.guide-links{grid-template-columns:1fr}.guide-tile{min-height:0}.mast h1{font-size:clamp(51px,13vw,82px)}.mast-copy{padding-top:30px}.mast{min-height:730px}.mast-photo{inset:0}.mast-photo img{object-position:57% 50%}}
 @media(prefers-reduced-motion:reduce){*,*::before,*::after{scroll-behavior:auto!important;animation:none!important;transition:none!important;transform:none!important}.reveal{opacity:1!important}}
 html[dir="rtl"] .mast-copy{text-align:right;align-items:flex-start}html[dir="rtl"] .toplinks{direction:rtl}html[dir="rtl"] .feat-content{text-align:right}html[dir="rtl"] .gallery-text{text-align:right}html[dir="rtl"] .footer{text-align:right}html[dir="rtl"] .mast:before{background:linear-gradient(270deg,#04162efc,#061a34ad,#071c3438)}html[dir="rtl"] .mast-copy{margin-left:auto}html[dir="rtl"] .mast-photo{inset:0 0 0 0}html[dir="rtl"] .mast-copy .buttons{flex-direction:row-reverse}
+
+
+/* Captures réelles : pas de recadrage, de déformation ni de chevauchement. */
+.feat-photo img.real-screenshot{
+  display:block;width:auto;height:auto;
+  max-width:min(84%,390px);max-height:490px;
+  object-fit:contain;transform:none;border-radius:22px;
+  filter:drop-shadow(0 18px 28px #02162c70);
+}
+.feat-stage:hover .feat-photo img.real-screenshot{transform:none}
+.mini-feature.screenshot-card{min-height:465px}
+.mini-feature.screenshot-card .copy{max-width:100%}
+.mini-feature.screenshot-card img.real-screenshot{
+  position:relative;right:auto;bottom:auto;display:block;
+  width:auto;height:auto;max-width:100%;max-height:295px;
+  object-fit:contain;margin:18px auto 0;
+  transform:none;border-radius:16px;
+}
+.mini-feature.screenshot-card:hover img.real-screenshot{transform:none}
+@media(max-width:900px){
+  .mini-feature.screenshot-card{min-height:0}
+  .mini-feature.screenshot-card img.real-screenshot{max-height:365px}
+  .feat-photo img.real-screenshot{max-height:405px}
+}
