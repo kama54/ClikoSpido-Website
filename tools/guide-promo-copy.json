@@ -1,0 +1,476 @@
+{
+  "version": 1,
+  "context": "Human-reviewed contextual copy for 10 localized ClikoSpido Android guides; public opening planned Nov 14, 2026",
+  "locales": {
+    "fr": {
+      "heading": "Simplifier Android avec ClikoSpido",
+      "sub": "Des conseils pour rendre un smartphone Android plus simple et découvrir comment ClikoSpido aide les seniors au quotidien.",
+      "meta": "Simplifier Android pour les seniors : grandes touches, contacts avec photos et Mode Famille. Découvrez les conseils et l’application ClikoSpido.",
+      "tiles": [
+        "Organisez les actions essentielles sur un accueil plus clair.",
+        "Rendez les boutons et les contacts plus faciles à reconnaître.",
+        "Configurez un téléphone en famille, sans compliquer son utilisation."
+      ],
+      "label": "La solution ClikoSpido",
+      "title": "Pourquoi installer ClikoSpido ?",
+      "intro": "ClikoSpido Launcher transforme l’accueil d’un téléphone Android compatible en une interface plus lisible et plus facile à utiliser, sans publicité.",
+      "benefits": [
+        "6 grands boutons : Appeler, Messages, Contacts, Photos, Caméra et raccourci d’urgence.",
+        "Les proches apparaissent avec leur photo pour faciliter les appels.",
+        "Le Mode Famille permet de personnaliser l’affichage, les applications autorisées et de protéger certains réglages par code PIN."
+      ],
+      "articles": [
+        [
+          "Des gestes simples dès l’accueil",
+          "ClikoSpido évite de devoir chercher les fonctions essentielles parmi de nombreuses applications.",
+          [
+            "Six grandes commandes restent visibles dès l’accueil.",
+            "Les proches favoris avec photos sont faciles à identifier et à appeler."
+          ]
+        ],
+        [
+          "De grandes commandes, pas seulement des icônes agrandies",
+          "Si les réglages d’affichage Android ne suffisent pas, ClikoSpido propose un accueil conçu pour être utilisé facilement.",
+          [
+            "Les actions principales ont de grandes touches lisibles.",
+            "Les contacts avec photos permettent de retrouver rapidement la personne à appeler."
+          ]
+        ],
+        [
+          "Un téléphone adapté avec le Mode Famille",
+          "Configurez ClikoSpido avec votre proche, selon ses habitudes et ses besoins.",
+          [
+            "Ajoutez ses proches favoris avec leurs photos et choisissez les applications autorisées.",
+            "Protégez certains réglages avec un PIN sans masquer les fonctions essentielles."
+          ]
+        ]
+      ],
+      "play": "Voir ClikoSpido sur Google Play",
+      "learn": "Découvrir ses fonctionnalités",
+      "note": "Gratuit, sans publicité ; Premium facultatif. Ouverture publique prévue le 14 novembre 2026, sous réserve de validation Google Play."
+    },
+    "en": {
+      "heading": "Make Android easier with ClikoSpido",
+      "sub": "Helpful Android guides plus a practical way to make smartphones easier for older adults with ClikoSpido.",
+      "meta": "Simplify Android for seniors with large controls, photo contacts and Family Mode. Explore the ClikoSpido guides and app.",
+      "tiles": [
+        "Keep everyday actions on one clear home screen.",
+        "Make important buttons and contacts easier to see.",
+        "Set up a familiar phone together with Family Mode."
+      ],
+      "label": "The ClikoSpido solution",
+      "title": "Why try ClikoSpido?",
+      "intro": "ClikoSpido Launcher provides a clearer alternative home screen on compatible Android phones, without ads.",
+      "benefits": [
+        "Six large actions for calls, messages, contacts, photos, camera and an emergency shortcut.",
+        "Photo contacts help users recognize and call loved ones.",
+        "Family Mode lets relatives choose permitted apps, customize the display and protect selected settings with a PIN."
+      ],
+      "articles": [
+        [
+          "Essential tasks right on the home screen",
+          "No more searching through a crowded collection of apps.",
+          [
+            "Six large buttons keep important tasks within reach.",
+            "Favorite contacts with photos are easy to recognize and call."
+          ]
+        ],
+        [
+          "Larger controls, not just bigger icons",
+          "If Android display settings are not enough, ClikoSpido offers a simpler home screen.",
+          [
+            "Large, readable controls for everyday actions.",
+            "Photo contacts make it easier to see who you are calling."
+          ]
+        ],
+        [
+          "A familiar phone with Family Mode",
+          "Set up ClikoSpido together around the person's routines.",
+          [
+            "Add loved ones with photos and choose permitted apps.",
+            "Protect selected settings with a PIN while keeping essential functions accessible."
+          ]
+        ]
+      ],
+      "play": "View ClikoSpido on Google Play",
+      "learn": "Explore the features",
+      "note": "Free, ad-free app; optional Premium. Public launch planned for 14 November 2026, subject to Google Play approval."
+    },
+    "es": {
+      "heading": "Simplifica Android con ClikoSpido",
+      "sub": "Consejos útiles para Android y una forma práctica de facilitar el uso del móvil a las personas mayores.",
+      "meta": "Simplifica Android para mayores con botones grandes, contactos con foto y Modo Familia. Descubre ClikoSpido.",
+      "tiles": [
+        "Ten las acciones importantes en una pantalla de inicio clara.",
+        "Haz que los botones y contactos sean más fáciles de ver.",
+        "Configura un móvil familiar con el Modo Familia."
+      ],
+      "label": "La solución ClikoSpido",
+      "title": "¿Por qué probar ClikoSpido?",
+      "intro": "ClikoSpido Launcher ofrece una pantalla de inicio alternativa más clara en móviles Android compatibles, sin anuncios.",
+      "benefits": [
+        "Seis botones grandes para llamadas, mensajes, contactos, fotos, cámara y acceso de emergencia.",
+        "Contactos con foto para reconocer y llamar a familiares.",
+        "Modo Familia para elegir aplicaciones permitidas, adaptar la pantalla y proteger ajustes con PIN."
+      ],
+      "articles": [
+        [
+          "Lo esencial en la pantalla de inicio",
+          "Evita buscar las funciones importantes entre muchas aplicaciones.",
+          [
+            "Seis botones grandes para las acciones cotidianas.",
+            "Contactos favoritos con foto para llamar fácilmente."
+          ]
+        ],
+        [
+          "Botones grandes, no solo iconos ampliados",
+          "Si los ajustes de Android no bastan, ClikoSpido ofrece una pantalla de inicio más sencilla.",
+          [
+            "Botones grandes y legibles para las acciones principales.",
+            "Contactos con foto para reconocer rápidamente a quién llamar."
+          ]
+        ],
+        [
+          "Un móvil familiar con Modo Familia",
+          "Configura ClikoSpido con la persona según sus hábitos.",
+          [
+            "Añade contactos con foto y elige las aplicaciones permitidas.",
+            "Protege algunos ajustes con PIN sin ocultar lo esencial."
+          ]
+        ]
+      ],
+      "play": "Ver ClikoSpido en Google Play",
+      "learn": "Descubrir sus funciones",
+      "note": "Gratis, sin anuncios; Premium opcional. Apertura pública prevista el 14 de noviembre de 2026, sujeta a aprobación de Google Play."
+    },
+    "it": {
+      "heading": "Semplifica Android con ClikoSpido",
+      "sub": "Guide utili per Android e un modo pratico per facilitare l’uso dello smartphone alle persone anziane.",
+      "meta": "Semplifica Android per anziani con grandi pulsanti, contatti con foto e Modalità Famiglia. Scopri ClikoSpido.",
+      "tiles": [
+        "Ritrova le azioni essenziali in una schermata iniziale chiara.",
+        "Rendi più facili da vedere pulsanti e contatti.",
+        "Prepara uno smartphone familiare con la Modalità Famiglia."
+      ],
+      "label": "La soluzione ClikoSpido",
+      "title": "Perché provare ClikoSpido?",
+      "intro": "ClikoSpido Launcher offre una schermata iniziale alternativa più chiara sugli smartphone Android compatibili, senza pubblicità.",
+      "benefits": [
+        "Sei grandi pulsanti per chiamate, messaggi, contatti, foto, fotocamera e scorciatoia di emergenza.",
+        "Contatti con foto per riconoscere e chiamare facilmente i familiari.",
+        "Modalità Famiglia per scegliere le app consentite, adattare la schermata e proteggere impostazioni con PIN."
+      ],
+      "articles": [
+        [
+          "L’essenziale subito visibile",
+          "Non serve più cercare le azioni importanti tra molte applicazioni.",
+          [
+            "Sei grandi pulsanti per le funzioni quotidiane.",
+            "Contatti preferiti con foto per chiamare facilmente."
+          ]
+        ],
+        [
+          "Grandi comandi, non solo icone ingrandite",
+          "Se le impostazioni Android non bastano, ClikoSpido offre una schermata più semplice.",
+          [
+            "Pulsanti grandi e leggibili per le azioni principali.",
+            "Contatti con foto per riconoscere subito chi chiamare."
+          ]
+        ],
+        [
+          "Uno smartphone familiare con la Modalità Famiglia",
+          "Configura ClikoSpido insieme alla persona, secondo le sue abitudini.",
+          [
+            "Aggiungi contatti con foto e scegli le app consentite.",
+            "Proteggi alcune impostazioni con PIN senza nascondere le funzioni essenziali."
+          ]
+        ]
+      ],
+      "play": "Vedi ClikoSpido su Google Play",
+      "learn": "Scopri le funzioni",
+      "note": "Gratis, senza pubblicità; Premium facoltativo. Lancio pubblico previsto il 14 novembre 2026, previa approvazione di Google Play."
+    },
+    "de": {
+      "heading": "Android mit ClikoSpido vereinfachen",
+      "sub": "Praktische Android-Ratgeber und eine einfache Bedienoberfläche für ältere Menschen.",
+      "meta": "Android für Senioren vereinfachen: große Schaltflächen, Fotokontakte und Familienmodus. Entdecken Sie ClikoSpido.",
+      "tiles": [
+        "Wichtige Aufgaben auf einem übersichtlichen Startbildschirm finden.",
+        "Tasten und Kontakte besser sichtbar machen.",
+        "Ein vertrautes Handy mit dem Familienmodus einrichten."
+      ],
+      "label": "Die ClikoSpido-Lösung",
+      "title": "Warum ClikoSpido ausprobieren?",
+      "intro": "ClikoSpido Launcher bietet einen übersichtlichen alternativen Startbildschirm auf kompatiblen Android-Handys, ohne Werbung.",
+      "benefits": [
+        "Sechs große Schaltflächen für Anrufe, Nachrichten, Kontakte, Fotos, Kamera und Notfall-Verknüpfung.",
+        "Fotokontakte erleichtern das Erkennen und Anrufen von Angehörigen.",
+        "Familienmodus für erlaubte Apps, angepasste Anzeige und PIN-Schutz ausgewählter Einstellungen."
+      ],
+      "articles": [
+        [
+          "Das Wichtigste direkt auf dem Startbildschirm",
+          "Kein langes Suchen mehr zwischen vielen Apps.",
+          [
+            "Sechs große Tasten für alltägliche Aufgaben.",
+            "Lieblingskontakte mit Fotos für schnelle Anrufe."
+          ]
+        ],
+        [
+          "Große Tasten statt nur größerer Symbole",
+          "Wenn Android-Anzeigeoptionen nicht reichen, bietet ClikoSpido einen klareren Startbildschirm.",
+          [
+            "Große, gut lesbare Bedienelemente.",
+            "Fotokontakte zeigen sofort, wen man anruft."
+          ]
+        ],
+        [
+          "Ein vertrautes Handy mit Familienmodus",
+          "Richten Sie ClikoSpido gemeinsam nach den Gewohnheiten der Person ein.",
+          [
+            "Fotokontakte hinzufügen und erlaubte Apps wählen.",
+            "Bestimmte Einstellungen per PIN schützen, ohne Alltagsfunktionen zu verstecken."
+          ]
+        ]
+      ],
+      "play": "ClikoSpido bei Google Play ansehen",
+      "learn": "Funktionen entdecken",
+      "note": "Kostenlos, ohne Werbung; Premium optional. Öffentlicher Start für den 14. November 2026 geplant, vorbehaltlich Google-Play-Freigabe."
+    },
+    "nl": {
+      "heading": "Maak Android eenvoudiger met ClikoSpido",
+      "sub": "Praktische Android-tips en een eenvoudigere telefoon voor senioren dankzij ClikoSpido.",
+      "meta": "Android eenvoudiger maken voor senioren met grote knoppen, fotocontacten en Familiemodus. Ontdek ClikoSpido.",
+      "tiles": [
+        "Belangrijke acties op een overzichtelijk startscherm.",
+        "Knoppen en contacten makkelijker zichtbaar maken.",
+        "Samen een telefoon instellen met Familiemodus."
+      ],
+      "label": "De ClikoSpido-oplossing",
+      "title": "Waarom ClikoSpido proberen?",
+      "intro": "ClikoSpido Launcher biedt een overzichtelijk alternatief startscherm op geschikte Android-telefoons, zonder advertenties.",
+      "benefits": [
+        "Zes grote knoppen voor bellen, berichten, contacten, foto's, camera en noodsnelkoppeling.",
+        "Fotocontacten maken familieleden makkelijker herkenbaar en bereikbaar.",
+        "Familiemodus voor toegestane apps, aangepaste weergave en een pincode op bepaalde instellingen."
+      ],
+      "articles": [
+        [
+          "Belangrijke functies meteen op het startscherm",
+          "Zoeken tussen allerlei apps is niet langer nodig.",
+          [
+            "Zes grote knoppen voor dagelijkse handelingen.",
+            "Favoriete contacten met foto's zijn makkelijk te bellen."
+          ]
+        ],
+        [
+          "Grote knoppen, meer dan grotere iconen",
+          "Als Android-instellingen niet voldoende helpen, biedt ClikoSpido een eenvoudiger startscherm.",
+          [
+            "Grote, leesbare bediening voor belangrijke taken.",
+            "Fotocontacten om snel te zien wie je belt."
+          ]
+        ],
+        [
+          "Een vertrouwde telefoon met Familiemodus",
+          "Stel ClikoSpido samen in volgens de gewoonten van de gebruiker.",
+          [
+            "Voeg fotocontacten toe en kies toegestane apps.",
+            "Beveilig bepaalde instellingen met een pincode zonder basisfuncties te verbergen."
+          ]
+        ]
+      ],
+      "play": "Bekijk ClikoSpido op Google Play",
+      "learn": "Ontdek de functies",
+      "note": "Gratis, zonder advertenties; Premium optioneel. Publieke lancering gepland op 14 november 2026, onder voorbehoud van Google Play-goedkeuring."
+    },
+    "pt": {
+      "heading": "Simplifique o Android com ClikoSpido",
+      "sub": "Dicas úteis para Android e uma forma mais simples de usar o telemóvel, pensada para pessoas idosas.",
+      "meta": "Simplifique o Android para idosos com botões grandes, contactos com foto e Modo Família. Descubra o ClikoSpido.",
+      "tiles": [
+        "Ações essenciais num ecrã inicial mais claro.",
+        "Botões e contactos mais fáceis de identificar.",
+        "Prepare um telemóvel familiar com o Modo Família."
+      ],
+      "label": "A solução ClikoSpido",
+      "title": "Porquê experimentar o ClikoSpido?",
+      "intro": "ClikoSpido Launcher oferece um ecrã inicial alternativo mais simples em telemóveis Android compatíveis, sem anúncios.",
+      "benefits": [
+        "Seis botões grandes para chamadas, mensagens, contactos, fotos, câmara e atalho de emergência.",
+        "Contactos com foto para reconhecer e ligar facilmente a familiares.",
+        "Modo Família para escolher apps permitidas, adaptar o ecrã e proteger definições com PIN."
+      ],
+      "articles": [
+        [
+          "O essencial logo no ecrã inicial",
+          "Evite procurar as funções importantes entre muitas aplicações.",
+          [
+            "Seis grandes botões para as tarefas diárias.",
+            "Contactos favoritos com fotos para facilitar chamadas."
+          ]
+        ],
+        [
+          "Botões grandes, não apenas ícones maiores",
+          "Se as definições Android não chegam, ClikoSpido oferece um ecrã inicial mais simples.",
+          [
+            "Controlos grandes e legíveis para ações importantes.",
+            "Contactos com foto para identificar quem vai ligar."
+          ]
+        ],
+        [
+          "Um telemóvel familiar com Modo Família",
+          "Configure ClikoSpido em conjunto, segundo os hábitos da pessoa.",
+          [
+            "Adicione contactos com foto e escolha apps permitidas.",
+            "Proteja algumas definições com PIN mantendo as funções essenciais."
+          ]
+        ]
+      ],
+      "play": "Ver ClikoSpido no Google Play",
+      "learn": "Descobrir funcionalidades",
+      "note": "Gratuito, sem anúncios; Premium opcional. Lançamento público previsto para 14 de novembro de 2026, sujeito à aprovação do Google Play."
+    },
+    "ar": {
+      "heading": "تبسيط أندرويد مع ClikoSpido",
+      "sub": "نصائح عملية لأندرويد وطريقة أسهل لاستخدام الهاتف لكبار السن مع ClikoSpido.",
+      "meta": "بسّط أندرويد لكبار السن باستخدام أزرار كبيرة وجهات اتصال بالصور ووضع العائلة. اكتشف ClikoSpido.",
+      "tiles": [
+        "ضع الوظائف الأساسية على شاشة رئيسية واضحة.",
+        "اجعل الأزرار وجهات الاتصال أسهل في الرؤية.",
+        "جهّز هاتف أحد أفراد الأسرة باستخدام وضع العائلة."
+      ],
+      "label": "حل ClikoSpido",
+      "title": "لماذا تجرّب ClikoSpido؟",
+      "intro": "يقدم ClikoSpido Launcher شاشة رئيسية بديلة وأكثر وضوحًا على هواتف أندرويد المتوافقة، دون إعلانات.",
+      "benefits": [
+        "ستة أزرار كبيرة للمكالمات والرسائل وجهات الاتصال والصور والكاميرا واختصار الطوارئ.",
+        "جهات اتصال مع صور لتسهيل معرفة أفراد العائلة والاتصال بهم.",
+        "وضع العائلة لاختيار التطبيقات المسموحة وتخصيص العرض وحماية بعض الإعدادات برمز PIN."
+      ],
+      "articles": [
+        [
+          "الوظائف الأساسية على الشاشة الرئيسية",
+          "لا حاجة للبحث عن العمليات المهمة بين تطبيقات كثيرة.",
+          [
+            "ستة أزرار كبيرة للمهام اليومية.",
+            "جهات الاتصال المفضلة بالصور تسهّل المكالمات."
+          ]
+        ],
+        [
+          "أزرار كبيرة، وليس مجرد أيقونات أكبر",
+          "إذا لم تكفِ إعدادات العرض، يقدم ClikoSpido شاشة رئيسية أسهل.",
+          [
+            "عناصر تحكم كبيرة وواضحة للوظائف المهمة.",
+            "صور جهات الاتصال للتعرف سريعًا على من تريد الاتصال به."
+          ]
+        ],
+        [
+          "هاتف مألوف مع وضع العائلة",
+          "يمكنكم إعداد ClikoSpido معًا وفق احتياجات الشخص.",
+          [
+            "أضف جهات الاتصال بالصور واختر التطبيقات المسموحة.",
+            "احمِ بعض الإعدادات برمز PIN مع إبقاء الوظائف الأساسية متاحة."
+          ]
+        ]
+      ],
+      "play": "شاهد ClikoSpido على Google Play",
+      "learn": "اكتشف الميزات",
+      "note": "تطبيق مجاني دون إعلانات؛ Premium اختياري. الإطلاق العام متوقع في 14 نوفمبر 2026، رهن موافقة Google Play."
+    },
+    "ja": {
+      "heading": "ClikoSpidoでAndroidをもっと簡単に",
+      "sub": "シニア向けのAndroid活用ガイドと、ClikoSpidoで日々の操作を簡単にする方法をご紹介します。",
+      "meta": "Androidをシニアにも使いやすく。大きなボタン、写真付き連絡先、ファミリーモードを備えたClikoSpidoを紹介。",
+      "tiles": [
+        "大切な操作を見やすいホーム画面にまとめます。",
+        "ボタンや連絡先を簡単に見つけられるようにします。",
+        "ファミリーモードで家族のスマホを設定します。"
+      ],
+      "label": "ClikoSpidoの解決策",
+      "title": "ClikoSpidoを試すメリット",
+      "intro": "ClikoSpido Launcherは対応Android端末で使える、広告のない見やすいホーム画面です。",
+      "benefits": [
+        "電話、メッセージ、連絡先、写真、カメラ、緊急連絡用の6つの大きなボタン。",
+        "写真付き連絡先で家族をすぐに見つけて電話できます。",
+        "ファミリーモードで利用アプリや表示を設定し、一部の設定をPINで保護できます。"
+      ],
+      "articles": [
+        [
+          "必要な機能をホーム画面にまとめる",
+          "たくさんのアプリから探す手間を減らします。",
+          [
+            "毎日の操作に使える6つの大きなボタン。",
+            "写真付きのお気に入り連絡先から電話できます。"
+          ]
+        ],
+        [
+          "アイコンだけでなく操作そのものを大きく",
+          "Androidの画面設定だけで足りない場合は、ClikoSpidoの簡単なホーム画面が役立ちます。",
+          [
+            "重要な操作を選びやすい大きなボタン。",
+            "写真付き連絡先ですぐに相手を確認できます。"
+          ]
+        ],
+        [
+          "ファミリーモードで使いやすく設定",
+          "本人と一緒に生活習慣に合わせて設定できます。",
+          [
+            "写真付き連絡先と利用可能なアプリを設定します。",
+            "必要な機能は残したまま一部の設定をPINで保護します。"
+          ]
+        ]
+      ],
+      "play": "Google PlayでClikoSpidoを見る",
+      "learn": "機能を見る",
+      "note": "基本無料・広告なし。Premiumは任意です。一般公開は2026年11月14日予定（Google Playの承認が必要）。"
+    },
+    "ko": {
+      "heading": "ClikoSpido로 Android를 더 쉽게",
+      "sub": "시니어를 위한 Android 사용 가이드와 ClikoSpido로 스마트폰을 간편하게 쓰는 방법을 알아보세요.",
+      "meta": "시니어를 위한 Android 가이드. 큰 버튼, 사진 연락처, 가족 모드가 있는 ClikoSpido를 소개합니다.",
+      "tiles": [
+        "중요한 기능을 보기 쉬운 홈 화면에 모으세요.",
+        "버튼과 연락처를 더 쉽게 찾을 수 있게 하세요.",
+        "가족 모드로 부모님의 휴대폰을 설정하세요."
+      ],
+      "label": "ClikoSpido 해결책",
+      "title": "ClikoSpido를 사용하면 좋은 점",
+      "intro": "ClikoSpido Launcher는 호환되는 Android 휴대폰에 광고 없는 간단한 대체 홈 화면을 제공합니다.",
+      "benefits": [
+        "전화, 메시지, 연락처, 사진, 카메라, 긴급 바로가기용 6개의 큰 버튼.",
+        "사진 연락처로 가족을 쉽게 알아보고 전화할 수 있습니다.",
+        "가족 모드에서 허용 앱과 화면을 설정하고 일부 설정을 PIN으로 보호할 수 있습니다."
+      ],
+      "articles": [
+        [
+          "필요한 기능을 홈 화면에서 바로",
+          "수많은 앱 중에서 중요한 기능을 찾는 번거로움을 줄입니다.",
+          [
+            "매일 사용하는 기능을 위한 6개의 큰 버튼.",
+            "사진이 있는 즐겨찾기 연락처로 쉽게 전화합니다."
+          ]
+        ],
+        [
+          "아이콘 크기보다 중요한 쉬운 조작",
+          "Android 화면 설정만으로 부족할 때 ClikoSpido의 간편한 홈 화면이 도움이 됩니다.",
+          [
+            "중요한 기능을 쉽게 선택하는 큰 버튼.",
+            "사진 연락처로 전화를 걸 상대를 빠르게 확인합니다."
+          ]
+        ],
+        [
+          "가족 모드로 익숙한 스마트폰 만들기",
+          "사용자와 함께 생활 습관에 맞춰 설정할 수 있습니다.",
+          [
+            "사진 연락처를 추가하고 허용 앱을 선택합니다.",
+            "필수 기능은 그대로 두고 일부 설정을 PIN으로 보호합니다."
+          ]
+        ]
+      ],
+      "play": "Google Play에서 ClikoSpido 보기",
+      "learn": "기능 알아보기",
+      "note": "무료·광고 없음. Premium은 선택 사항입니다. Google Play 승인에 따라 2026년 11월 14일 공개 예정입니다."
+    }
+  }
+}
