@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://kama54.github.io/ClikoSpido-Website/fr/video-clikospido.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://kama54.github.io/ClikoSpido-Website/assets/video-posters/fr.webp</video:thumbnail_loc>
+      <video:title>ClikoSpido Launcher en vidéo</video:title>
+      <video:description>En 35 secondes, découvrez les grandes touches, les contacts favoris et le Mode Famille de ClikoSpido Launcher sur Android.</video:description>
+      <video:content_loc>https://kama54.github.io/ClikoSpido-Website/assets/videos/fr.mp4</video:content_loc>
+      <video:duration>35</video:duration>
+      <video:publication_date>2026-10-31T19:50:59Z</video:publication_date>
+    </video:video>
+  </url>
+</urlset>
