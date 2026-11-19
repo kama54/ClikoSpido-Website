@@ -91,3 +91,7 @@ html[dir="rtl"] .mast-copy{text-align:right;align-items:flex-start}html[dir="rtl
 .cliko-benefit-secondary{color:#07558f;background:#fff;border:1px solid #bad5eb}.cliko-benefit-secondary:hover{color:#054679;background:#eaf5fd}
 .cliko-benefit-note{color:#657a90;font-size:13px;line-height:1.5;margin:16px 0 0}
 @media(max-width:700px){.cliko-benefit{margin:23px 0 34px;padding:20px}.cliko-benefit-actions{flex-direction:column;align-items:stretch}.cliko-benefit-actions a{width:100%}}
+
+/* Mention visible de la marque dans le H1, sans modifier les lignes principales. */
+.mast h1 .brand-name{display:block;font-size:clamp(14px,1.55vw,18px);font-weight:750;letter-spacing:.14em;line-height:1.3;text-transform:uppercase;color:#b6e4ff;margin:0 0 15px;white-space:normal}
+@media(max-width:420px){.mast h1 .brand-name{font-size:13px;margin-bottom:11px}}
