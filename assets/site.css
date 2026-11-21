@@ -161,3 +161,15 @@ html[dir="rtl"] .mast-copy{text-align:right;align-items:flex-start}html[dir="rtl
 
 /* Recherche proposée uniquement quand JavaScript est actif */
 .help-search-area{display:none}.js .help-search-area{display:block}
+
+/* Localized help: logical directions and readable Arabic layout */
+html[dir="rtl"] .help-page,html[dir="rtl"] .help-home{text-align:right}
+html[dir="rtl"] .help-toc ol,html[dir="rtl"] .help-article ul{padding-left:0;padding-right:26px}
+html[dir="rtl"] .help-steps li{padding:18px 64px 18px 20px}
+html[dir="rtl"] .help-steps li::before{left:auto;right:16px}
+html[dir="rtl"] .help-question summary{padding:18px 20px 18px 45px;text-align:right}
+html[dir="rtl"] .help-question summary::after{right:auto;left:18px}
+html[dir="rtl"] .help-callout{border-left:0;border-right:5px solid #0b77a2}
+html[dir="rtl"] .help-callout.important{border-right-color:#b66d28}
+html[dir="rtl"] .help-breadcrumb span[aria-hidden]{transform:scaleX(-1)}
+html[lang="ja"] .help-tile h3,html[lang="ko"] .help-tile h3{word-break:normal;overflow-wrap:anywhere}
